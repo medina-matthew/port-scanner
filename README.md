@@ -10,4 +10,6 @@ This project is a basic port scanner written in Python. It allows users to scan 
 
 ## How to Use
 1. Clone this repository
-2. Run: python port_scanner.py <target-IP> <start-port> <end-port>
+2. Run the Python script:
+   ```bash
+   python port_scanner.py <target-IP> <start-port> <end-port>
