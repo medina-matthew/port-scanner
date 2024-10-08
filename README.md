@@ -13,3 +13,8 @@ This project is a basic port scanner written in Python. It allows users to scan 
 2. Run the Python script:
    ```bash
    python port_scanner.py <target-IP> <start-port> <end-port>
+
+## Future Additions
+1. Multithreading to speed up the scan
+2. Logging for later review by saving the results to a file
+3. Error Handling improvements to hand network errors and unreachable targets more gracefully
